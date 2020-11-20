@@ -111,7 +111,7 @@ public class ObstacleGame extends JPanel implements ActionListener, KeyListener 
         enemies[0] = new VerticalEnemy(200, 300, 50, 50, gameHeight, 5);
         enemies[1] = new DiagonalEnemy(300, 300, 50, 50, gameHeight, 5, gameWidth, 6);
         enemies[2] = new StalkerEnemy(100, 200, 50, 50, player);
-        //enemies[3] = new SpinningEnemy(450, 400, 50, 50, 100);
+        enemies[3] = new SpinningEnemy(450, 400, 50, 50, 100);
     }
     
     //The update method does 5 things

@@ -1,12 +1,9 @@
 public class test {
     public static void main(String[] args) {
-        int age;
-        age = 3;
-        thisthing(age);
-        System.out.println(age);
-    }
+        boolean a = true;
 
-    public static void thisthing(int age){
-        System.out.println(age);
+        boolean b = false;
+
+        System.out.print((a == !b) != false);
     }
 }
