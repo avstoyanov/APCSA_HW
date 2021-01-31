@@ -10,14 +10,14 @@ public class Level{
     USED PER INDEX, AND IF TWO ARE USED, THEY SHOULD ONLY BE USED FOR OBSTACLES.
     */
     private static String[][] maze1 =
-            {{" "," ","|","*","|","*"},
+                    {{" "," ","|","*","|","*"},
                     {"*"," ","|"," "," "," "},
                     {"]"," ","|"," ","--","--"},
                     {" "," ","|"," "," "," "},
                     {" ","--","|"," ","|"," "},
                     {" "," "," "," ","|","*"}};
     private static int maze1Stars = 4;
-    private static Maze level1= new Maze(maze1, maze1Stars);
+    private static Maze level1 = new Maze(maze1, maze1Stars);
 
     //THIS IS THE END OF THE CREATION OF A LEVEL. FOLLOW THIS EXAMPLE FOR FUTURE LEVELS.
 
