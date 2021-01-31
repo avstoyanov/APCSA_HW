@@ -7,12 +7,20 @@
       <sourceFolder url="file://$MODULE_DIR$/Summer Homework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/classwork" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/fOff" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/poll" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practicing_with_Java_Ch.4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Obstacle_Game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ch6" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Dice_lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lipogram_Lab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/z.TEST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sieve" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ticTacToe_and_others" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch9_2D" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maze" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
