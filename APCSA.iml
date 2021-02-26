@@ -6,7 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Summer Homework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/classwork" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/fOff" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ch5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/poll" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Practicing_with_Java_Ch.4" isTestSource="false" />
@@ -18,9 +17,11 @@
       <sourceFolder url="file://$MODULE_DIR$/z.TEST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ch9" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sieve" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ticTacToe_and_others" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ch9_2D" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/maze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/perfectNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chomp" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
