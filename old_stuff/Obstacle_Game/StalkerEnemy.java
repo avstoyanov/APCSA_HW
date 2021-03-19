@@ -1,9 +1,8 @@
-import org.w3c.dom.css.Rect;
-
 import java.awt.*;
 
-public class StalkerEnemy extends Enemy{
-    private Rectangle playerRect;
+public class StalkerEnemy extends Enemy {
+    private final Rectangle playerRect;
+
     public StalkerEnemy(int x, int y, int w, int h, Rectangle p) {
         super(x, y, w, h);
         playerRect = p;
@@ -14,15 +13,15 @@ public class StalkerEnemy extends Enemy{
     }
 
     public void move() {
-        Rectangle ourRect = getRectangle();
-        if(ourRect.x < playerRect.x){
+        Rectangle ourRect = super.getRectangle();
+        if (ourRect.x < playerRect.x) {
             ourRect.x += 1;
-        } else{
+        } else {
             ourRect.x -= 1;
         }
-        if(ourRect.y < playerRect.y){
+        if (ourRect.y < playerRect.y) {
             ourRect.y += 1;
-        } else{
+        } else {
             ourRect.y -= 1;
         }
 

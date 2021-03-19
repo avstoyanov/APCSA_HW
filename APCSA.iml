@@ -3,25 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Summer Homework" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/classwork" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Ch5" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/poll" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Practicing_with_Java_Ch.4" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Obstacle_Game" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Ch6" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Dice_lab" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Lipogram_Lab" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/z.TEST" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Ch9" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Sieve" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Ch9_2D" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/maze" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Ch7" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/perfectNumbers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Chomp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ShufflerLab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/old_stuff/Ch10" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

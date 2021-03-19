@@ -1,7 +1,8 @@
 import java.awt.*;
 
-public class DiagonalEnemy extends VerticalEnemy{
-    private int screenWidth, xSpeed;
+public class DiagonalEnemy extends VerticalEnemy {
+    private final int screenWidth;
+    private int xSpeed;
 
     public DiagonalEnemy(int x, int y, int w, int h, int sH, int yS, int sW, int xS) {
         super(x, y, w, h, sH, yS);
@@ -16,7 +17,7 @@ public class DiagonalEnemy extends VerticalEnemy{
     public void move() {
         Rectangle rect = getRectangle();
         super.move();
-        if(rect.x < 0 || (rect.x + rect.width) > screenWidth){
+        if (rect.x < 0 || (rect.x + rect.width) > screenWidth) {
             xSpeed = -xSpeed;
         }
         rect.x += xSpeed;
